@@ -1,14 +1,14 @@
 👋 Hi, I’m Zachary Clayville
-I’m a student at Fort Hays State Tech Northwest in Goodland, Kansas, where I’m currently studying App Development & Emerging Technologies. I’ve been learning full-stack development using tools like Node.js, React, SwiftUI, and more.
+I’m a student at Fort Hays State Tech Northwest in Goodland, Kansas, and I’m currently in the App Development & Emerging Technologies program. I’ve been learning full-stack development and have spent a lot of time building apps using tools like Node.js, React, SwiftUI, and more.
 
-Over the past several months, I’ve worked on multiple real-world projects some for clients, some team-based  that helped me build confidence and technical skills
+Over the past few months, I’ve worked on several real-world projects  some were solo, others were with teams — and all of them helped me grow as a developer.
 
-🍔 Bite Bite A food and sorting management system I’ve been building for over three months. It helps manage food related data in an organized, efficient way. This has been my biggest project yet, and it’s taught me how to handle complex logic, structure a full app layout, and keep things user-friendly and functional.
+🍔 Bite Bite This is a food and sorting management system that I’ve been developing for over three months. I built it to help organize and manage food data efficiently. I handled everything from setting up the structure to building out the logic and making sure the app was smooth and user-friendly. It’s the most in-depth project I’ve worked on so far, and I’ve learned a ton from it.
 
-🏀 Topside Tipoff Northwest/New Version  A basketball focused app built around the Topside Tipoff event held every year. This updated version was designed specifically for Northwest Tech to showcase brackets, team info, and schedules. I helped bring structure and design to the frontend and worked on keeping the user experience clean and smooth.
+🏀 Topside Tipoff  Northwest/New Version – I helped build this version of the Topside Tipoff app specifically for Northwest Tech. It’s focused on showcasing brackets, team details, and game schedules for the annual basketball event. I worked on the frontend, handled layout and design, and helped shape the user experience to make it clean and easy to use.
 
-🛠️ Northwest Tech App  A past project that was originally intended to manage attendance and campus tools While it was never completed working on it gave me early exposure to backend systems and helped shape how I approach app development today.
+🛠️ Northwest Tech App  This was one of the first projects I ever worked on. It was supposed to be a campus attendance and management tool, but it never got finished. Still, it gave me early experience working on backend systems and taught me a lot about how to structure apps and solve problems from the inside out.
 
-Outside of school I work at Walmart where I’ve learned valuable soft skills like time management customer service and communication  all of which translate well into working with dev teams and managing technical tasks.
+When I’m not coding, I work at Walmart, where I’ve developed strong soft skills like time management, problem-solving, and clear communication all of which help me when working on dev teams or building my own projects.
 
-I’m passionate about building apps that serve a real purpose. Whether I’m working solo or with others, I like seeing things come together from an idea to something that actually works. I'm always improving, learning new things, and excited to grow into the tech field fulltime.
+I’m passionate about making apps that actually help people. I like seeing my ideas come to life, fixing things that don’t work, and learning something new every time I build. I’m always pushing to get better, and I’m excited to keep leveling up and one day work full-time in the tech world.
