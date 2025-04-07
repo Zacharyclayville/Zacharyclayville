@@ -11,4 +11,4 @@ Over the past few months, I’ve worked on several real-world projects  some wer
 
 When I’m not coding, I work at Walmart, where I’ve developed strong soft skills like time management, problem-solving, and clear communication all of which help me when working on dev teams or building my own projects.
 
-I’m passionate about making apps that actually help people. I like seeing my ideas come to life, fixing things that don’t work, and learning something new every time I build. I’m always pushing to get better, and I’m excited to keep leveling up and one day work full-time in the tech world.
+
