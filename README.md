@@ -5,8 +5,6 @@ I’m a student at Fort Hays State Tech Northwest in Goodland, Kansas, and I’m
 
 
 
-Over the past few months, I’ve worked on several real-world projects  some were solo, others were with teams — and all of them helped me grow as a developer.
-
 
 
 🍔 Bite Bite This is a food and sorting management system that I’ve been developing for over three months. I built it to help organize and manage food data efficiently. I handled everything from setting up the structure to building out the logic and making sure the app was smooth and user-friendly. It’s the most in-depth project I’ve worked on so far, and I’ve learned a ton from it.
